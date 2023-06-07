@@ -1,2 +1,3 @@
-# repo_sample_spec.rb
-repo_sample_spec.rb
+# RaiseTech第10回課題
+-　ServerSpecでのテストコードを実装
+
